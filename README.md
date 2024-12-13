@@ -49,7 +49,7 @@ The Task Management System allows users to:
 
 ## Setup Instructions
 ### Prerequisites
-- Ruby 3.1+
+- Ruby 3.3.6
 - Rails 7+
 - PostgreSQL
 - Node.js & Yarn
@@ -57,7 +57,7 @@ The Task Management System allows users to:
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/task-management-system.git
+   git clone https://github.com/gabrielmonzon39/task-management-system.git
    cd task-management-system
    ```
 
